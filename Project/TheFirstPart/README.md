@@ -1,6 +1,6 @@
 ### **Faculty Admission Management System Java Project**
 
-**The Second Part**
+**The First Part**
 
 	Organizarea claselor:
 
