@@ -1,5 +1,6 @@
+### **Faculty Admission Management System Java Project**
 
-Tema nr. 6 – Admitere
+**The Second Part**
 
 	Organizarea claselor:
 
