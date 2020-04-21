@@ -1,4 +1,4 @@
-### **Faculty Admission Management System in Java**
+### **Faculty Admission Management System Java Project**
 
 **TheSecondPart**
 
