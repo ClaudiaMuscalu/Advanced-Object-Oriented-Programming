@@ -6,22 +6,12 @@ import java.util.ArrayList;
 
 public class CandidateRepository {
 
-    private static final int units = 40;
-    private int capacity = 20;
-    private ArrayList<Candidate> CandidateList;
+    private ArrayList<Candidate> CandidateList = new ArrayList<>();
 
     public CandidateRepository() {
-
-        CandidateList = new ArrayList<>(capacity);
     }
 
     public void addCandidate(Candidate c) {
-
-        int size = CandidateList.size();
-        int new_capacity = capacity + units;
-
-        if (size == capacity)
-            CandidateList.ensureCapacity(new_capacity);
 
         CandidateList.add(c);
     }

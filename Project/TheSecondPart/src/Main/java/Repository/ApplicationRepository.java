@@ -5,21 +5,12 @@ import Model.*;
 import java.util.ArrayList;
 
 public class ApplicationRepository {
-    private static final int units = 40;
-    private int capacity = 20;
-    private ArrayList<CandidateApplication> listOfApplications;
+    private ArrayList<CandidateApplication> listOfApplications = new ArrayList<>();
 
-    public ApplicationRepository() {
-        listOfApplications = new ArrayList<>(capacity);
+    public ApplicationRepository({
     }
 
     public void addApplication(CandidateApplication a) {
-        int size = listOfApplications.size();
-        int new_capacity = capacity + units;
-
-        if (size == capacity)
-            listOfApplications.ensureCapacity(new_capacity);
-
         listOfApplications.add(a);
     }
 
