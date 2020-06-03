@@ -1,0 +1,155 @@
+@font-face {
+    font-family:bellota;
+    src:url("fonts/Bellota-Italic.otf")
+}
+
+body{
+    background-image: url("images/background.jpg");
+    margin : 0;
+    padding: 0;
+    background-size: cover;
+    font-family: bellota;
+}
+
+h2{
+   margin-left: 10%;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: larger;
+}
+
+input{
+    display: block;
+    border-radius: 5px;
+    margin-left: 35%;
+    width: 30%;
+    height: 30px;
+}
+
+.btn{
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 20px;
+    background-color: #1b6ca8;
+    margin-top: 3%;
+}
+
+.btn1{
+    width: 25%;
+    height: 150px;
+    background-color: #1b6ca8;
+    margin-left: 35%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    margin: 0px;
+    height: auto;
+    overflow: hidden;
+    color: #fce8d5;
+    background-color: #1b6ca8;
+}
+
+.text1 {
+    height: auto;
+    width: 13%;
+    margin: auto;
+}
+
+.text1 h2{
+    text-align: center;
+}
+
+.topnav {
+    background-color:#0a97b0 ;
+    color: #fce8d5;
+    overflow: hidden;
+    margin-top: -1px;
+}
+
+.topnav li{
+    display: inline;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 11px 14px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0a97b0;
+    min-width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color:white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+    background-color: rgba(255,244,228,0.75);
+    color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(255,244,228,0.75);
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.admin{
+    float: right;
+    margin-right: 5%;
+    color: whitesmoke;
+}
+
+input{
+    background-color: #e8e4e1;
+}
+
+
+

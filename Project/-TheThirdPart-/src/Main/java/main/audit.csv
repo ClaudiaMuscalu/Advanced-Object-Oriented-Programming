@@ -1,0 +1,97 @@
+Add a new app,2020-06-03T21:28:13.749753600,addAppThread
+Add a new candidate,2020-06-03T21:37:44.335050900,addCandidateThread
+Add a new faculty,2020-06-03T21:48:05.736988900,addFacultythread
+Add a new candidate,2020-06-03T22:18:15.690024,addCandidateThread
+Modify the name of a candidate,2020-06-03T22:19:20.361822500,http-nio-8080-exec-10
+Delete a candidate by CNP and delete his application.,2020-06-03T22:19:35.425254400,http-nio-8080-exec-1
+Add a new candidate,2020-06-03T22:20:16.871383100,addCandidateThread
+Get a candidate by CNP,2020-06-03T22:20:30.557166700,http-nio-8080-exec-6
+Get a candidate by CNP,2020-06-03T22:22:11.206194900,http-nio-8080-exec-8
+Get a candidate by CNP,2020-06-03T22:26:03.880550600,http-nio-8080-exec-7
+Get a candidate by CNP,2020-06-03T22:27:04.994443500,http-nio-8080-exec-10
+Add a new candidate,2020-06-03T22:30:19.556794300,addCandidateThread
+Get a candidate by CNP,2020-06-03T22:30:42.790889500,http-nio-8080-exec-8
+Add a new app,2020-06-03T22:30:42.806509400,addAppThread
+Add a new faculty,2020-06-03T22:31:54.595636800,addFacultythread
+Update the name of a faculty,2020-06-03T22:32:22.706527600,http-nio-8080-exec-7
+Update the name of a faculty,2020-06-03T22:32:37.125503100,http-nio-8080-exec-8
+Update the name of a faculty,2020-06-03T22:33:01.450369600,http-nio-8080-exec-10
+Update the name of a faculty,2020-06-03T22:33:18.977725200,http-nio-8080-exec-1
+Update the name of a faculty,2020-06-03T22:33:37.427004,http-nio-8080-exec-2
+Delete a faculty,2020-06-03T22:34:01.741804500,http-nio-8080-exec-4
+Get all specializations,2020-06-03T22:34:01.749783700,http-nio-8080-exec-4
+Add a new faculty,2020-06-03T22:34:13.952652400,addFacultythread
+Add a new specialization,2020-06-03T22:34:34.357265100,addSpecThread
+Add a new specialization,2020-06-03T22:35:26.030769,addSpecThread
+Add a new specialization,2020-06-03T22:36:17.973667100,addSpecThread
+Add a new specialization,2020-06-03T22:37:53.613745,addSpecThread
+Add a new specialization,2020-06-03T22:41:15.057587100,addSpecThread
+Get all specializations from a faculty,2020-06-03T22:41:26.141770700,http-nio-8080-exec-9
+Get all specializations from a faculty,2020-06-03T22:41:28.399015600,http-nio-8080-exec-10
+Get applications to the the budget by faculty code,2020-06-03T22:41:28.408972400,http-nio-8080-exec-10
+Get a specialization,2020-06-03T22:41:28.515700300,http-nio-8080-exec-10
+Get applications to the the budget by faculty code,2020-06-03T22:41:28.525659800,http-nio-8080-exec-10
+Get a specialization,2020-06-03T22:41:28.577520700,http-nio-8080-exec-10
+Get applications to the the budget by faculty code,2020-06-03T22:41:28.586513800,http-nio-8080-exec-10
+Get a specialization,2020-06-03T22:41:28.645339700,http-nio-8080-exec-10
+Get all specializations from a faculty,2020-06-03T22:44:30.150855900,http-nio-8080-exec-4
+Get all specializations from a faculty,2020-06-03T22:44:33.494778,http-nio-8080-exec-5
+Get applications to the the budget by faculty code,2020-06-03T22:44:33.503754600,http-nio-8080-exec-5
+Get a specialization,2020-06-03T22:44:33.579551200,http-nio-8080-exec-5
+Get applications to the the budget by faculty code,2020-06-03T22:44:33.585536100,http-nio-8080-exec-5
+Get a specialization,2020-06-03T22:44:33.632409600,http-nio-8080-exec-5
+Get applications to the the budget by faculty code,2020-06-03T22:44:33.637397400,http-nio-8080-exec-5
+Get a specialization,2020-06-03T22:44:33.713194300,http-nio-8080-exec-5
+Get all specializations from a faculty,2020-06-03T22:44:35.663866100,http-nio-8080-exec-6
+Get applications to the the budget by faculty code,2020-06-03T22:44:35.669849500,http-nio-8080-exec-6
+Get a specialization,2020-06-03T22:44:35.673838700,http-nio-8080-exec-6
+Get all specializations from a faculty,2020-06-03T22:44:37.605655900,http-nio-8080-exec-7
+Get applications to the the budget by faculty code,2020-06-03T22:44:37.609645100,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:44:37.659511800,http-nio-8080-exec-7
+Get applications to the the budget by faculty code,2020-06-03T22:44:37.663501100,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:44:37.698408100,http-nio-8080-exec-7
+Get applications to the the budget by faculty code,2020-06-03T22:44:37.701399700,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:44:37.743288,http-nio-8080-exec-7
+Get all specializations from a faculty,2020-06-03T22:44:46.157274400,http-nio-8080-exec-8
+Get all specializations from a faculty,2020-06-03T22:44:48.197101700,http-nio-8080-exec-9
+Get applications to the the toll by faculty code,2020-06-03T22:44:48.212685700,http-nio-8080-exec-9
+Get a specialization,2020-06-03T22:44:48.259549700,http-nio-8080-exec-9
+Get applications to the the toll by faculty code,2020-06-03T22:44:48.259549700,http-nio-8080-exec-9
+Get a specialization,2020-06-03T22:44:48.297310400,http-nio-8080-exec-9
+Get applications to the the toll by faculty code,2020-06-03T22:44:48.297310400,http-nio-8080-exec-9
+Get a specialization,2020-06-03T22:44:48.359816800,http-nio-8080-exec-9
+Get all specializations from a faculty,2020-06-03T22:44:52.620143,http-nio-8080-exec-10
+Get all specializations from a faculty,2020-06-03T22:44:54.331786700,http-nio-8080-exec-1
+Get applications to the the budget by faculty code,2020-06-03T22:44:54.343801100,http-nio-8080-exec-1
+Get a specialization,2020-06-03T22:44:54.418557300,http-nio-8080-exec-1
+Get applications to the the budget by faculty code,2020-06-03T22:44:54.427531600,http-nio-8080-exec-1
+Get a specialization,2020-06-03T22:44:54.467425500,http-nio-8080-exec-1
+Get applications to the the budget by faculty code,2020-06-03T22:44:54.472410100,http-nio-8080-exec-1
+Get a specialization,2020-06-03T22:44:54.543221700,http-nio-8080-exec-1
+Get all specializations from a faculty,2020-06-03T22:44:59.371242100,http-nio-8080-exec-2
+Get all specializations from a faculty,2020-06-03T22:45:01.467996,http-nio-8080-exec-3
+Get applications to the the budget by faculty code,2020-06-03T22:45:01.483594,http-nio-8080-exec-3
+Get a specialization,2020-06-03T22:45:01.568233,http-nio-8080-exec-3
+Get applications to the the budget by faculty code,2020-06-03T22:45:01.568233,http-nio-8080-exec-3
+Get a specialization,2020-06-03T22:45:01.615080100,http-nio-8080-exec-3
+Get applications to the the budget by faculty code,2020-06-03T22:45:01.615080100,http-nio-8080-exec-3
+Get a specialization,2020-06-03T22:45:01.687600700,http-nio-8080-exec-3
+Get all specializations from a faculty,2020-06-03T22:45:05.521943900,http-nio-8080-exec-4
+Get all specializations from a faculty,2020-06-03T22:45:06.353951200,http-nio-8080-exec-5
+Get applications to the the toll by faculty code,2020-06-03T22:45:06.361964900,http-nio-8080-exec-5
+Get a specialization,2020-06-03T22:45:06.361964900,http-nio-8080-exec-5
+Get all specializations from a faculty,2020-06-03T22:45:07.865185600,http-nio-8080-exec-6
+Get all specializations from a faculty,2020-06-03T22:45:10.044886600,http-nio-8080-exec-7
+Get applications to the the toll by faculty code,2020-06-03T22:45:10.048879100,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:45:10.103730100,http-nio-8080-exec-7
+Get applications to the the toll by faculty code,2020-06-03T22:45:10.108716300,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:45:10.140269500,http-nio-8080-exec-7
+Get applications to the the toll by faculty code,2020-06-03T22:45:10.140269500,http-nio-8080-exec-7
+Get a specialization,2020-06-03T22:45:10.189650300,http-nio-8080-exec-7
+Add a new candidate,2020-06-03T22:45:35.956407800,addCandidateThread
+Add a new candidate,2020-06-03T22:46:20.604499400,addCandidateThread
+Get a candidate by CNP,2020-06-03T22:46:32.627071700,http-nio-8080-exec-6
+Add a new app,2020-06-03T22:46:32.627071700,addAppThread
+Get all specializations from a faculty,2020-06-03T22:47:04.141253500,http-nio-8080-exec-9
+Get all specializations from a faculty,2020-06-03T22:47:05.710308500,http-nio-8080-exec-10
+Get all specializations from a faculty,2020-06-03T23:00:42.097397100,http-nio-8080-exec-5
